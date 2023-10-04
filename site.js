@@ -26,7 +26,6 @@ function GoBackUpButtonColor() {
 
     if (footerPosition.top <= window.innerHeight) {
         svgElement.classList.add("scroll-top-footer");
-        console.log("oui")
     } else {
         svgElement.classList.remove("scroll-top-footer");
     }
