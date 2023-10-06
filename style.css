@@ -174,7 +174,7 @@ header {
     gap: 4rem;
 }
 
-@media (max-width: 575px) {
+@media (max-width: 767px) {
     .about-container {
         display: flex;
         flex-direction: column;
